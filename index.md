@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Placeholder de conteúdo histórico do CEUE/UFRGS (CEUE - Centro dos Estudantes Universitários de Engenharia)
+
+_Aviso: conteúdo abaixo  meramente ilustrativo para prever o layout visual_
 
 You can use the [editor on GitHub](https://github.com/ceue/ceue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
