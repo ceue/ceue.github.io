@@ -1,59 +1,40 @@
 ## Sobre o projeto
+[Histórico do CEUE](https://ceue.github.io/) é uma iniciativa independe e sem
+fins lucrativos que disponibiliza na internet informações com valor histórico
+relacionadas ao CEUE (Centro dos Estudantes Universitários de Engenharia).
 
+### Parte técnica
+
+O detalhamento de adições (o que, por quem, quando) em cada repositório também
+é público,  permite fazer cópias de segurança completas com [Git](https://git-scm.com/)
+e também é simplificada auditoria por terceiros. A hospedagem gratuita é
+fornecida pelo [GitHub Pages](https://pages.github.com/) e é possível ter cópia
+simples apenas dos arquivos.
+
+<!-- 
+### Curadoria
+
+-->
+
+<!-- 
 O objetivo geral desse projeto é ser um arquivo histórico relativo ao
-<abbr="Centro dos Estudantes Universitários de Engenharia>">CEUE</abbr>, que foi
-fundado em julho de 1903 vinculado então Escola de Engenharia de Porto Alegre,
+<abbr title="Centro dos Estudantes Universitários de Engenharia">CEUE</abbr>,
+centro acadêmico fundado em julho de 1903 vinculado então Escola de Engenharia de Porto Alegre,
 que hoje faz parte da
-<abbr="Universidade Federal do Rio Grande do Sul">UFRGS</abbr>.
+<abbr title="Universidade Federal do Rio Grande do Sul">UFRGS</abbr>.
+-->
 
+## Repositórios
 
-### Links rápidos
+- Arquivo de sites antigos do CEUE (gestões, chapas, comissões eleitorais):
+  - Site: <https://ceue.github.io/site-antigo>
+  - Repositório: <https://github.com/ceue/site-antigo>
 
-- [Lista completa de repositórios no GitHub](https://github.com/ceue)
-- [Site Geral, Histórico do CEUE](https://ceue.github.io/) _([Ver repositório](https://github.com/ceue/ceue.github.io))_
-- [Arquivo de sites antigos do CEUE (gestões, chapas, comissões eleitorais)](https://ceue.github.io/site-antigo) _([Ver repositório](https://github.com/ceue/site-antigo))_
-
-
+A lísta completa de repositórios e os respectivos sites da iniciativa em <https://github.com/ceue>.
 
 <!--
 
-_Aviso: conteúdo abaixo  meramente ilustrativo para prever o layout visual_
-
-You can use the [editor on GitHub](https://github.com/ceue/ceue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ceue/ceue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
+- [Site Geral, Histórico do CEUE](https://ceue.github.io/) _([Ver repositório](https://github.com/ceue/ceue.github.io))_
+- [Arquivo de sites antigos do CEUE (gestões, chapas, comissões eleitorais)](https://ceue.github.io/site-antigo) _([Ver repositório](https://github.com/ceue/site-antigo))_
 
 -->
