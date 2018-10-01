@@ -1,4 +1,21 @@
-## Placeholder de conteúdo histórico do CEUE/UFRGS (CEUE - Centro dos Estudantes Universitários de Engenharia)
+## Sobre o projeto
+
+O objetivo geral desse projeto é ser um arquivo histórico relativo ao
+<abbr="Centro dos Estudantes Universitários de Engenharia>">CEUE</abbr>, que foi
+fundado em julho de 1903 vinculado então Escola de Engenharia de Porto Alegre,
+que hoje faz parte da
+<abbr="Universidade Federal do Rio Grande do Sul">UFRGS</abbr>.
+
+
+### Links rápidos
+
+- [Lista completa de repositórios no GitHub](https://github.com/ceue)
+- [Site Geral, Histórico do CEUE](https://ceue.github.io/) _([Ver repositório](https://github.com/ceue/ceue.github.io))_
+- [Arquivo de sites antigos do CEUE (gestões, chapas, comissões eleitorais)](https://ceue.github.io/site-antigo) _([Ver repositório](https://github.com/ceue/site-antigo))_
+
+
+
+<!--
 
 _Aviso: conteúdo abaixo  meramente ilustrativo para prever o layout visual_
 
@@ -37,3 +54,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+-->
